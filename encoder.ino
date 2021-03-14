@@ -1,6 +1,7 @@
 /*
  * STEVE PATTERSON
  * UAS INC. 
+ * linkedin.com/in/steve-patterson-a26839181/
  * 
  * ARDUINO NANO
  * LPD3806-600BM-G5-24C
